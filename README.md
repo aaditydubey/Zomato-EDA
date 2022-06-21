@@ -7,26 +7,6 @@
 ## Data
 I found this dataset on Kaggle.
 
-### About Columns
-
-* url : Zomato url for the Restaurants 
-* address : Complete location of the Restaurant
-* name : Name of the Restaurant
-* online_order : Whether restaurant accepts online order
-* book_table : Whether restaurant provides option for booking table
-* rate : Restaurants rating on zomato website 
-* votes : Number of individual who voted for restaurants
-* phone : Contact details of the restaurant
-* localtion : Area where restaurant is situated
-* rest_type : Type of restaurants (Categorical value)
-* dish_liked : What are all dishes of the restaurant that people liked 
-* cuisines : Cuisines offered by the restaurant
-* approx_cost(for two people) : Average cost for two people 
-* review_list : Reviews of the restaurant on zomato website
-* menu_item : Menu items available in the restuarant
-* listed_in(type) : Type of the restaurant
-* listed_in(city) : Locality of the restaurant position
-
 ## Conclusion
 
 Based on my analysis keeping restaurant business in mind. I tried to figure out answers to some of the common queries when opening any new restaurant.
